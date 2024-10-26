@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es">
+
+
+    <link rel="stylesheet" href="style.css">
+    <header class="container">
+
+        <div class="menu-container">
+            <a href="#" class="logo"> menu </a>
+            <input type="checkbox" id="menu">
+            <label form="menu">
+            </label>
+            <nav class="navbar">
+                    <li><a href="">Inicio</a></li>
+                    <li><a href="file:///C:/Users/espir/Documents/Programacion/Motos/chatbox.html">Servicios</a></li>
+                    <li><a href="https://instagram/motosports.com">Contacto</a></li>
+                </nav>
+            
+        </div>
+        <div class="header-content">
+            <div class="header-1">
+                <h1>MOTOSPORTS</h1>
+
+            </div>
+            <div class="header-2"></div>
+                <div class="info">
+                    <h1>Ninja ZX-10R:</h1></div>
+                    <div class="descripcion">
+                    <p>La Ninja ZX-10R es una motocicleta deportiva de alto rendimiento fabricada por Kawasaki. Se distingue por su potente motor de 998 cc, su manejo ágil y sus sofisticados sistemas electrónicos de asistencia para el piloto. Esta motocicleta es popular entre los entusiastas de las motos que aprecian la velocidad, la precisión y la tecnología de vanguardia.</p>
+                    <h2>Seguridad</h2>
+                    <p>Es una motocicleta diseñada para la pista, pero también se destina a la circulación en carretera. Su configuración de frenos, suspensión y electrónica avanzada, junto con su diseño ergonómico y sistema de protección del conductor, hacen que sea una opción segura para conductores experimentados y principiantes.</p>
+                    <h2>Calidad</h2>
+                    <p>La calidad de la Ninja ZX-10R se refleja en su capacidad para ofrecer un rendimiento extremo y una conducción segura y precisa, gracias a su diseño y tecnología de vanguardia.</p>
+                    
+                    <div class="img2">   
+                    <img src="https://imgs.search.brave.com/xE0FNWG3vZD1sCKM_XZmWwzT681pTI03Luv2Bj2s9z4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/Lzk0L0t3YXNha2lf/WlgtMTBSX3Rva3lv/LkpQRw" alt=""> 
+                    </div>
+                
+                <div class="info">
+                    <h1>Ducati 748R</h1></div>
+                    <p>La Ducati 748R es una motocicleta de alto rendimiento conocida por su herencia en las carreras y su diseño llamativo. Esta motocicleta italiana cuenta con un motor refrigerado por líquido de 748 cc con configuración en "L", que entrega una impresionante potencia y torque. El 748R es liviano y ágil, con sistemas de suspensión y frenado avanzados para una maniobrabilidad y potencia de frenado superiores. Su distintivo diseño y el historial de carreras de Ducati lo hacen una opción popular entre los entusiastas serios de las motocicletas.</p>
+                    <h2>Seguridad</h2>
+                    <p>Ducati 748R es una motocicleta deportiva diseñada para pistas y carreteras secas. No es adecuado para uso en condiciones de nieve, hielo o superficies resbalosas. También es importante tener en cuenta que el vehículo puede ser propenso a perder tracción en superficies húmedas o resbalosas. Es una motocicleta deportiva que requiere un manejo seguro y consciente. Es importante ajustar la configuración del vehículo según sea necesario, utilizar equipo de protección adecuado y ser consciente de los límites de capacidad del vehículo.</p>
+                    <h2>Calidad</h2>
+                    <p>La calidad de la Ducati 748R se refleja en su rendimiento, manejo y durabilidad. Es una motocicleta que ha sido diseñada y construida para satisfacer las necesidades de los pilotos deportivos y entusiastas, y su calidad es un testimonio de la experiencia y la dedicación de Ducati en la creación de motocicletas de alta calidad.</p>
+                    <div class="img2">
+                    <img src="https://imgs.search.brave.com/Xl0Eciuq8jZlp7YWIt-KQGIuNEhqKJ89j6cYP_6GR1U/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9raWNr/c3RhcnQuYmlrZWV4/aWYuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDEwLzA3L2R1/Y2F0aS03NDhycy5q/cGc" alt="">
+                    </div>
+
+                <div class="info">
+                    <h1>Honda CBR1000RR-R Fireblade</h1></div>
+                    <p></p>Es una motocicleta superdeportiva de 1000 cc, diseñada para ofrecer un rendimiento extremo y una experiencia de conducción emocionante. es una motocicleta superdeportiva de alta performance, diseñada para ofrecer un rendimiento extremo y una experiencia de conducción emocionante. Con su motor potente, suspensión avanzada y electrónica de vanguardia, es ideal para conductores experimentados que buscan una motocicleta que les permita disfrutar al máximo de la carretera.</p>
+                    <h2>Seguridad</h2>
+                    <p></p>La Honda CBR1000RR-R Fireblade ofrece una combinación de características de seguridad activa y pasiva que la convierten en una moto segura y confiable para conductores experimentados y principiantes. Sin embargo, es importante recordar que la seguridad en el uso de una moto también depende de la habilidad y la conciencia del conductor.</p>
+                    <h2>Calidad</h2>
+                    <p>La Fireblade cuenta con componentes de alta calidad, como el sistema de frenos Brembo, los neumáticos Pirelli Diablo Supercorsa SP y la carrocería de fibra de carbono en la versión SP Carbon.</p>
+                    </div>
+                    <div class="img2">
+                    <img src="https://imgs.search.brave.com/S2RPT6bSodCfPjGnRLVay2qn7D9PAL2y_fH20ezqM-g/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWdk/LmFlcGxjZG4uY29t/LzY2NHgzNzQvbi9j/dy9lYy8yMzE5MC9j/YnIxMDAwcnItcmln/aHQtZnJvbnQtdGhy/ZWUtcXVhcnRlci5q/cGVnP2lzaWc9MCZx/PTgw" alt="">
+                    </div> 
+                    
+        <section class="contacto container">
+        <div class="contacto-txt">
+        <h2> contactanos para mas informacion</h2>
+        <a href="https://instagram/motosports.com">Instagram</a>
+        
+        
+        <div class="footer-social">
+            <div class="social-imgs">
+                <div class="img2">
+                <img src="https://imgs.search.brave.com/sJqihmnn5oUkfb5hKhqnVCbEMZ-X4WWrRROiv3z4-Eg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L21lZGlhLzIyZTMy/YzFiMWRlNDBlZDcx/MDNlMmUyZTg5OTVi/NzQyYWM2MDBiZDYv/NzBfMF83MTdfNDMw/L21hc3Rlci83MTcu/anBnP3dpZHRoPTQ0/NSZkcHI9MSZzPW5v/bmU" alt="">
+                </div>
+                </div>
+
+                <!-- Contenedor principal del chatbox -->
+    <div class="chatbox-container">
+        <!-- Encabezado del chatbox -->
+        <div class="chatbox-header">
+            <h3>Atención al Cliente</h3>
+        </div>
+        <!-- Área donde se mostrarán los mensajes -->
+        <div class="chatbox-messages" id="chatbox-messages">
+            <!-- Mensaje de bienvenida del bot -->
+            <div class="message bot-message">¡Hola! ¿En qué puedo ayudarte hoy?</div>
+            <!-- Opciones que el usuario puede seleccionar -->
+            <div class="message bot-message">
+                <button onclick="handleOption('Horario de atención')">Horario de atención</button>
+                <button onclick="handleOption('Pasos para reclamación')">Pasos para reclamación</button>
+                <button onclick="handleOption('Otro')">Otro</button>
+            </div>
+        </div>
+        <!-- Área de entrada de texto para el usuario -->
+        <div class="chatbox-input">
+            <input type="text" id="user-input" placeholder="Escribe tu mensaje...">
+            <button onclick="sendMessage()">Enviar</button>
+        </div>
+    </div>
+
+    <!-- Enlace al archivo de JavaScript -->
+
+   
+
+    
+    <script src="chatbox.js"></script>
+</body>
+</html>
+</div>
+
+                <footer>https://instagram/motosports.com</footer>
+                <footer>motosports@gmail.com</footer>

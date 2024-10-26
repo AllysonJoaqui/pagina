@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+     <!-- Contenedor principal del chatbox -->
+     <div class="chatbox-container">
+        <!-- Encabezado del chatbox -->
+        <div class="chatbox-header">
+            <h3>Atención al Cliente</h3>
+        </div>
+        <!-- Área donde se mostrarán los mensajes -->
+        <div class="chatbox-messages" id="chatbox-messages">
+            <!-- Mensaje de bienvenida del bot -->
+            <div class="message bot-message">¡Hola! ¿En qué puedo ayudarte hoy?</div>
+            <!-- Opciones que el usuario puede seleccionar -->
+            <div class="message bot-message">
+                <button onclick="handleOption('Horario de atención')">Horario de atención</button>
+                <button onclick="handleOption('Pasos para reclamación')">Pasos para reclamación</button>
+                <button onclick="handleOption('Otro')">Otro</button>
+            </div>
+        </div>
+        <!-- Área de entrada de texto para el usuario -->
+        <div class="chatbox-input">
+            <input type="text" id="user-input" placeholder="Escribe tu mensaje...">
+            <button onclick="sendMessage()">Enviar</button>
+        </div>
+    </div>
+
+    <!-- Enlace al archivo de JavaScript -->
+    <script src="chatbox.js"></script>
+
+</body>
+
+</html>
